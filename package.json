@@ -1,0 +1,25 @@
+{
+  "name": "node-counter",
+  "version": "1.0.0",
+  "description": "node counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nto300002/node-counter.git"
+  },
+  "keywords": [
+    "git+https://github.com/nto300002/node-counter.git"
+  ],
+  "author": "Y.naoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nto300002/node-counter/issues"
+  },
+  "homepage": "https://github.com/nto300002/node-counter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
